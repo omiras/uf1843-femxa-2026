@@ -2,7 +2,7 @@
 
 En este ejercicio tendrás que realizar varios cambios en los archivos `index.html` y `styles.css` para mejorar la accesibilidad  y adaptar el diseño a diferentes tamaños de pantalla.
 
-[Ver vídeo del resultado esperado](https://oscarm.tinytake.com/df/16403bf/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
+[Ver vídeo del resultado esperado](https://oscarm.tinytake.com/df/188d330/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
 
 1. Escribe un elemento `<title>` adecuado para esta página. ¡Puedes mantener el icono del gatito!
 
