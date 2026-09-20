@@ -18,4 +18,4 @@ En este ejercicio tendrás que realizar varios cambios en los archivos `index.ht
 
 7. Alinea los elementos en el centro del **eje principal (main axis)** utilizando la propiedad CSS adecuada.
 
-8. Cuando el viewport tenga **al menos 768 px de ancho**, establece un **ancho máximo de 300 px** para las imágenes de los gatos.
+8. Cuando el viewport tenga **al menos 768 px de ancho**, establece un **ancho máximo de 400 px** (propiedad max-width) para las imágenes de los gatos. De esta manera, las imágenes pueden crecer mucho más. 
